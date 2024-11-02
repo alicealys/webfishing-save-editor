@@ -42,4 +42,4 @@ jobs:
         with:
           name: ${{matrix.configuration}} binaries
           path: |
-            build/bin/x64/${{matrix.configuration}}/webfishing-se.exe
+            build/bin/x64/${{matrix.configuration}}/webfishing-tool.exe
